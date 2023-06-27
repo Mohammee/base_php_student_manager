@@ -1,0 +1,8 @@
+2023-06-27 2:30 PM - Manager add new student with name => mohammad abusultan
+2023-06-27 2:30 PM - Manager add new student with name => mohammad safadi
+2023-06-27 2:30 PM - Manager edit student has name => ali ramy
+2023-06-27 2:30 PM - Manager delete  student has name => mohammad safadi
+2023-06-27 2:35 PM - Manager add new student with name => mohammad abusultan
+2023-06-27 2:35 PM - Manager add new student with name => mohammad safadi
+2023-06-27 2:35 PM - Manager edit student has name => ali ramy
+2023-06-27 2:35 PM - Manager delete  student has name => mohammad safadi

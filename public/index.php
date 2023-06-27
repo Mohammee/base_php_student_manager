@@ -43,6 +43,7 @@ $manger->delete($std2->id);
 echo '<pre>';
 print_r($manger->getStudents());
 
+echo '=============';
 
 
 
